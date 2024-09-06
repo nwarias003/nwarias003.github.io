@@ -1,22 +1,23 @@
 ---
 layout: essay
 type: essay
-title: "Typescript: A New Chapter in My Coding Journey"
+title: "TypeScript: A New Chapter in My Coding Journey"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
 published: true
 labels:
-  - Typescript
+  - TypeScript
+  - JavaScript
   - Athletic Software Engineering
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/Coding_Book.jpg">
 
-## Learning Typescript: A Familiar Yet Challenging Experience
+## Learning TypeScript: A Familiar Yet Challenging Experience
 
-I find that the Typescript programming language has been interesting to learn in my Software Engineering course, especially since it is very similar to Javascript. Despite the short amount of time I’ve had to learn it, I find Typescript to be more straightforward to follow compared to Javascript. However, with my experience in other programming languages such as C++ and Javascript, I sometimes find it challenging because I would tend to confuse the syntax, or the structure or format of the code, with other coding styles I’ve learned. Another thing about the language I'm trying to keep in my head is the declaration and initialization of the numerous variable types explicitly. I keep mixing them up with how the other programming languages I have learned in the past declare their variables. 
+I find that the TypeScript programming language has been interesting to learn in my Software Engineering course, especially since it is very similar to JavaScript. Despite the short amount of time I’ve had to learn it, I find TypeScript to be more straightforward to follow compared to Javascript. However, with my experience in other programming languages such as C++ and JavaScript, I sometimes find it challenging because I would tend to confuse the syntax, or the structure or format of the code, with other coding styles I’ve learned. Another thing about the language I'm trying to keep in my head is the declaration and initialization of the numerous variable types explicitly. I keep mixing them up with how the other programming languages I have learned in the past declare their variables. 
 
-Even though I still have a lot to learn about Typescript, I do think that it is good to use especially with its use of static typing. This asset helps to increase the readability of the code I'm working on and speeds up the turnaround in catching errors early, therefore reducing the amount of time needed to figure out the cause of the problems. This makes it extremely useful once we start getting into the more large and complex projects we will do within my Software Engineering course. The only downside I see with the programming language is that there is a learning curve, especially coming from Javascript as there are a lot more things to take into account and learn. 
+Even though I still have a lot to learn about TypeScript, I do think that it is good to use especially with its use of static typing. This asset helps to increase the readability of the code I'm working on and speeds up the turnaround in catching errors early, therefore reducing the amount of time needed to figure out the cause of the problems. This makes it extremely useful once we start getting into the more large and complex projects we will do within my Software Engineering course. The only downside I see with the programming language is that there is a learning curve, especially coming from JavaScript as there are a lot more things to take into account and learn. 
 
 
 ## Embracing the Stress
