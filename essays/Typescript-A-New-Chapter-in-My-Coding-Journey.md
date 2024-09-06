@@ -10,7 +10,7 @@ labels:
   - Athletic Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/typescript-logo.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/Coding_Book.jpg">
 
 ## Learning Typescript: A Familiar Yet Challenging Experience
 
