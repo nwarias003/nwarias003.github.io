@@ -13,8 +13,9 @@ labels:
 summary: "A film rescore project I created/edited in CM 314."
 ---
 
+<div>
 <iframe src="https://drive.google.com/file/d/1W7o5U_i4wopnK1-lKSt0ikBOdjjI_H_K/preview" width="100%" height="auto" allow="autoplay; fullscreen" style="max-width: 1280px; aspect-ratio: 16/9; display: block; margin: 0 auto; border: none;"></iframe>
-
+</div>div>
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
