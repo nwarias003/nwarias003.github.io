@@ -13,7 +13,7 @@ labels:
 summary: "A film rescore project created/edited in CM 314."
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100%;">
     <iframe src="https://drive.google.com/file/d/1W7o5U_i4wopnK1-lKSt0ikBOdjjI_H_K/preview" width="640" height="480" allow="autoplay" allowfullscreen style="width: 100%; max-width: 640px; height: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"></iframe>
 </div>
 
