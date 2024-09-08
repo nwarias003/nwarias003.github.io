@@ -13,7 +13,7 @@ labels:
 summary: "A film rescore project I created/edited in CM 314."
 ---
 
-<iframe src="https://drive.google.com/file/d/1W7o5U_i4wopnK1-lKSt0ikBOdjjI_H_K/preview" width="100%" height="720" allow="autoplay; fullscreen" style="max-width: 1280px; display: block; margin: 0 auto;"></iframe>
+<iframe src="https://drive.google.com/file/d/1W7o5U_i4wopnK1-lKSt0ikBOdjjI_H_K/preview" width="100%" height="100%" allow="autoplay; fullscreen" style="max-width: 1280px; max-height: 720px; display: block; margin: 0 auto;"></iframe>
 
 
 
