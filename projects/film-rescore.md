@@ -10,7 +10,7 @@ labels:
   - Premiere Pro
   - Audio
   - Editing
-summary: "A film rescore project I created/edited in CM 314."
+summary: "A film rescore project I created/edited in CM 314 Music, Sound & Media."
 ---
 
 
@@ -18,14 +18,10 @@ summary: "A film rescore project I created/edited in CM 314."
 
 <br>
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The Rescoring Project was an assignment I completed in my CM 314 Music, Sound & Media course at the University of Hawaii at West Oahu, and was designed to display our proficiency with Adobe Premiere Pro and Adobe Encoder. I was given a 10-minute scene from the 1964 film called Fail Safe that had all audio and sound effects present; however, all of its music was removed. We were given the choice to insert whatever music we wanted in the scene as long as it was within the 10-minute constraints without editing other parts to the footage.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+During the project, I was responsible for identifying and infusing the type of music that would best fit the tone and actions of the scene, and editing the music to match with the particular dramatics and high pressured moments expressed in each scene. In order to properly orchestrate the various aspects of this assignment, I had to ensure that 1) the audio was not too loud to the point where you couldn’t hear the dialogue within each scene, 2) the music was timed perfectly to enhance the tension based on what was occurring within the scene and 3) all edits within the video were encoded and output properly.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+This project afforded me the opportunity of learning how to master the skill of exercising patience, managing my time especially when time was limited, prioritizing multiple tasks, being prepared for the unknown, and gaining invaluable experience working with Premiere Pro in terms of perfecting film editing and production. In addition, I was also recognized by my professor as developing and creating an exceptionally impactful and meaningful scene that was enjoyed by many viewers. 
 
-Here is some example code to illustrate Simple Schema use:
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
