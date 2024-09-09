@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/nexus-onslaught.png
+image: img/vacay/nexus-onslaught-update.png
 title: "First-Person Shooter Prototype"
 date: 2023
 published: true
