@@ -20,8 +20,11 @@ Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application
 
 During the development, I was responsible for programming, game design, level design, audio design, and maintaining a Tumblr account with progress reports and development (dev) logs. This included implementing game features and mechanics, importing and editing the character animation sprite sheets provided by Ranae, and creating and editing various sound effects and music. Ranae was responsible for designing and animating the characters, and creating numerous items and objects that were not available in the level assets I used from itch.io. I have attached the link here to my Senior Capstone webpage for any interested parties who wish to view the behind-the-scenes development:  https://sites.google.com/hawaii.edu/acmwoseniorcapstones/capstone/fall-2023-seniors/nigel-arias?authuser=0
 
-I have also attached the link here for anyone who wish to play the game. <br> 
-The Boss From Hell (Browser): <a href="https://nigelarias.itch.io/the-boss-from-hell-web-version">Here</a> <br>
+I have also attached the link here for anyone who wish to play the game. 
+<br> 
+
+The Boss From Hell (Browser): <a href="https://nigelarias.itch.io/the-boss-from-hell-web-version">Here</a> 
+<br>
 The Boss From Hell (Downloadable): <a href="https://nigelarias.itch.io/the-boss-from-hell">Here</a>
 
 
