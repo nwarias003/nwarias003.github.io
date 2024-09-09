@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/vacay/rescore-thumbmail.png
-title: "First Person Shooter Prototype"
+title: "First-Person Shooter Prototype"
 date: 2023
 published: true
 labels:
@@ -14,7 +14,7 @@ summary: "A First-Person Arcade Shooter video game project that I developed in C
 ---
 
 
-<iframe src="https://drive.google.com/file/d/1W7o5U_i4wopnK1-lKSt0ikBOdjjI_H_K/preview" width="100%" height="auto" allow="autoplay; fullscreen" style="max-width: 1280px; aspect-ratio: 16/9; display: block; margin: 0 auto; border: none;"></iframe>
+<iframe src="https://drive.google.com/file/d/1Hq4QNFsjex3z5KWRsY7onDgWe9XzaEzz/preview" width="100%" height="auto" allow="autoplay; fullscreen" style="max-width: 1280px; aspect-ratio: 16/9; display: block; margin: 0 auto; border: none;"></iframe>
 
 <br>
 
