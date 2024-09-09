@@ -22,7 +22,9 @@ Nexus Onslaught was a Unity First-Person Arcade Shooter video game project that 
 
 The main character in the Nexus Onslaught game was named Dakota Wulfric, whose wife has been kidnapped by a corrupt organization called The Akuji. Dakota’s mission in the game is to save his wife before she is used as a test victim and become part of their mutant army. The excitement of the game involves how Dakota avoids near death experiences by shooting his way through hordes of enemies in order to save his beloved one and ultimately the world in the process.
 
-During the development, I was responsible for programming, game and level design, and animation. This included implementing game features and mechanics, putting together the level and light, importing and editing the enemy and weapon models used from the Unity Asset Store, and animating the firing and walking animations for the weapons. If you are interested in seeing the design document I created for the project, you can view it through this link here: https://docs.google.com/document/d/1SlgTLnV_MWI_e0Zx9rLhd6cR_rqUw7-k9BViJO1R21Y/edit?usp=sharing
+During the development, I was responsible for programming, game and level design, and animation. This included implementing game features and mechanics, putting together the level and light, importing and editing the enemy and weapon models used from the Unity Asset Store, and animating the firing and walking animations for the weapons. If you are interested in seeing the design document I created for the project, you can view it through this link here: <a href="https://docs.google.com/document/d/1SlgTLnV_MWI_e0Zx9rLhd6cR_rqUw7-k9BViJO1R21Y/edit?usp=sharing">Click Here</a>
+
+
 
 After completing the project, I learned how to properly design and create a level that keeps the player interested while also complementing the gameplay. This project afforded me the opportunity to gain practical firsthand game development skills and experience the entire process from beginning to end. It has also reinforced my desire to become a game designer and encouraged me to continue upon my journey of developing games using Unity.
  
