@@ -3,12 +3,12 @@ layout: essay
 type: essay
 title: "Digital Dreamscape: Exploring Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-05
+date: 2024-09-08
 published: true
 labels:
   - Software Engineering
-  - JavaScript
-  - Athletic Software Engineering
+  - Video Game Devlopment
+  - Programming
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/Coding_Book.jpg">
