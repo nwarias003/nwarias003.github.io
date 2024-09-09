@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/vacay/rescore-thumbmail.png
 title: "Film Rescore"
 date: 2023
 published: true
