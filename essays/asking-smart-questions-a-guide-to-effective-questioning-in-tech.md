@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Ask Smart, Solve Fast: A Guide to Effective Questioning in Tech"
+title: "Asking Smart Questions: A Guide to Effective Questioning in Tech"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-12
 published: true
