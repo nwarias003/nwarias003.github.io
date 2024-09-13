@@ -11,9 +11,9 @@ labels:
   - Programming
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/mastercoder.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/smart-question.jpg">
 
-## From Halo to Higher Learning: My Gaming Genesis
+## Introduction
 
 Mastering effective communication is one of the necessary cornerstones to being a successful software engineer. Possessing the ability to present hard problems and ask good questions in a manner that maximizes the likelihood of receiving a helpful response is one of the fundamental aspects of effective communication as stated in Eric Raymond’s essay, “How To Ask Questions The Smart Way,” which provided invaluable guidelines on how best to achieve this. Asking a good question is a form of flattery to an experienced software engineer; however, before you ask any question, you should first attempt to research it on your own before funneling the question out to experienced hackers, and your question should reflect this. A question should not be passively demanding an answer, but instead earning one with a “substantial, interesting, and thought-provoking question — one that implicitly contributes to the experience of the community.” (Raymond). Stress the fact that you need guidance, ask whether you overlooked or missed something, request for the precise actions needed to address your problem, and emphasize your willingness to become an active participant in aiding in your quest for a solution will more likely ensure that you’ll get the assistance you requested. By understanding and applying some of these principles and guidelines, software engineers can enhance their problem-solving skills and contribute positively to the community. 
 
