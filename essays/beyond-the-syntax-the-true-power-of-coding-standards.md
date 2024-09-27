@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "TypeScript: A New Chapter in My Coding Journey"
+title: "Beyond the Syntax: The True Power of Coding Standards"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-05
+date: 2024-09-26
 published: true
 labels:
-  - TypeScript
-  - JavaScript
-  - Athletic Software Engineering
+  - Coding Standard
+  - ESLint
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/Coding_Book.jpg">
