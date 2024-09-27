@@ -8,9 +8,10 @@ published: true
 labels:
   - Coding Standard
   - ESLint
+  - VS Code
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/Coding_Book.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/structure.jpg">
 
 ## Coding Standards: The Foundation of High-Quality Code
 
