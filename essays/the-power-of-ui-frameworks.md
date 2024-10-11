@@ -13,7 +13,7 @@ labels:
 ---
 
 <img width="400px" class="rounded float-start pe-4" src="../img/difficulty/UI_Framework_1.jpg"><br>
-<img width="400px" class="rounded float-start pe-4" src="../img/difficulty/UI_Framework_2.jpg">
+<img width="400px" class="rounded pe-4" src="../img/difficulty/UI_Framework_2.jpg">
 
 When I was first introduced to the world of web development, I thought that <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">HTML</a> and <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS">CSS</a> were the only tools used to create all of the fancy websites we see across the internet. Every time I inspected a webpage, I’d see long blocks of HTML and CSS, and it seemed like that was all there was to it. But as I delved deeper into web development in my Software Engineering course, I realized that while HTML and CSS are the foundation of websites, they become harder to manage and more time-consuming as sites grow in complexity. This is where user interface (UI) frameworks like <a href="https://www.geeksforgeeks.org/bootstrap-5-introduction/">Bootstrap 5</a> come into play, offering various features that help to speed up the web development process.
 
