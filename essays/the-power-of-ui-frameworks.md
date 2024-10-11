@@ -12,10 +12,12 @@ labels:
   - CSS
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/difficulty/UI_Framework_1.jpg">
-<br>
-<img width="400px" class="rounded float-start pe-4" src="../img/difficulty/UI_Framework_2.jpg">
-
+<div>
+    <img width="400px" class="rounded float-start pe-4" src="../img/difficulty/UI_Framework_1.jpg">
+</div>
+<div>
+    <img width="400px" class="rounded float-start pe-4" src="../img/difficulty/UI_Framework_2.jpg">
+</div>
 
 
 
