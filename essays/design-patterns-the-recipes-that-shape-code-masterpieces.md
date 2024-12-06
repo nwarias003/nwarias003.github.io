@@ -6,10 +6,12 @@ title: "Design Patterns: The Recipes That Shape Code Masterpieces"
 date: 2024-11-05
 published: true
 labels:
-  - UI Frameworks
+  - Design Patterns
   - Bootstrap 5
   - HTML
   - CSS
+  - Web Development
+  - Software Development
 ---
 
 <img width="700px" class="rounded float-start pe-4" src="../img/difficulty/design_pattern_chart.jpg">
@@ -18,8 +20,9 @@ labels:
 When I was first introduced to the world of web development, I thought that <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">HTML</a> and <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS">CSS</a> were the only tools that existed or used to create all of the fancy websites we see across the internet. All I saw were countless long blocks of HTML and CSS every time I ran across a webpage, and it made me question if that were all there was. However, as I learned more about web development in my Software Engineering course, I realized that while HTML and CSS are just the foundation of websites.  Unfortunately, they become harder to manage and more time-consuming as sites grow in complexity. This is where user interface (UI) frameworks like  <a href="https://www.geeksforgeeks.org/bootstrap-5-introduction/">Bootstrap 5</a> come into play, offering various features that help to speed up the web development process.
 
 <a href="https://www.designsystems.com/christopher-alexander-the-father-of-pattern-language/">Christopher Alexander</a>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">HTML</a>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">HTML</a>
+<a href="http://www.uml.org.cn/c++/pdf/DesignPatterns.pdf"><i>Design Patterns: Elements of Reusable Object-Oriented Software</i></a>
+
+<a href="https://refactoring.guru/design-patterns/history">"Gang of Four"</a>
 
 ## What Are Design Patterns?
 
@@ -47,8 +50,7 @@ My first introduction to Bootstrap 5 felt overwhelming, since there were so many
 Overall, UI frameworks offer significant advantages for web developers, such as Bootstrap 5. They help speed up the development process, maintain consistency across projects and ensure that websites are responsive and easy to maintain. Despite there being a massive learning curve, the time invested in mastering a UI framework like Bootstrap 5 pays off, allowing developers to work more efficiently and produce high-quality web pages with less effort.
 
 
-## The Balancing Act
-
-
 
 ## Conclusion
+
+
