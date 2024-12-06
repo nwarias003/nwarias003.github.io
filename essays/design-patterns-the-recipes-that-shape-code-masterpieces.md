@@ -39,7 +39,7 @@ Speaking from experience, design patterns have become indispensable tools when a
 
 Another example is when I used the <b>Observer Pattern</b>, which played a crucial role in event-driven programming. When building a game mechanic, I used this pattern to notify multiple subsystems, such as, sore trackers, animations and sound effects, when a target was hit. The pattern’s flexibility allowed me to separate components, making the system more maintainable and scalable.
 
-Lastly, the use of the <b>Model-View-Controller (MVC) Pattern</b> has been a cornerstone of my web development work. Separating data (model), presentation (view) and logic (controller) simplified collaboration within my team. Some groupmates focused on the Front-end development of user interfaces while other groupmates focused on the back-end design that optimized the data models, all organized for a clean modular design.
+Lastly, the use of the <b>Model-View-Controller (MVC) Pattern</b> has been a cornerstone of my web development work. Separating data (model), presentation (view) and logic (controller) simplified collaboration within my team. Some groupmates focused on the front-end development of user interfaces while other groupmates focused on the back-end design that optimized the data models, all organized for a clean modular design.
 
 
 ## The Balancing Act
