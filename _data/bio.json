@@ -111,7 +111,7 @@
   "awards": [
     {
       "title": "Dean’s List (3.75 or above)",
-      "date": "2020-2023",
+      "date": "2020 - 2023",
       "awarder": "University of Hawaii at West Oahu",
       "summary": ""
     },
@@ -120,7 +120,20 @@
       "date": "2023",
       "awarder": "University of Hawaii at West Oahu",
       "summary": "Awarded for being the Valorant Team Lead for 1) UH West Oahu Valorant Red (Spring 2023) and 2) UH West Oahu Varsity Valorant (Fall 2023)."
-    }
+    },
+    {
+      "title": "Lydia K.C. Kauha Memorial Scholarship",
+      "date": "2023",
+      "awarder": "Honolulu Federal Credit Union",
+      "summary": "Awarded a $3000 scholarship."
+    },
+    {
+      "title": "PC Pro Certified",
+      "date": "2017",
+      "awarder": "Testout",
+      "summary": "Passed the Testout PC Pro Certification exam. Demonstrated essential skills in computer hardware and operating systems such as: The Motherboard, CPU (Central Processing Unit), Audio, Expansion Slots, External Devices, Memory, Networking, Power Supply, Printing, Security, Storage, System Management, and Video."
+    },
+    
   ],
   "references": [
     {
