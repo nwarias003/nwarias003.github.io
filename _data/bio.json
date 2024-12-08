@@ -81,17 +81,17 @@
       ]
     }
   ],
-  "volunteer": [
+  "activities": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Pueo Gaming Esports Valorant Team",
+      "website": "https://www.instagram.com/pueogaming/",
+      "position": "Esports Player",
+      "startDate": "2022",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Team Lead for Valorant team",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Competed in the National Association of Collegiate Esports (NACE) Starleague open tournament with a five member team against various other schools across the country",
+        ""
       ]
     },
     {
