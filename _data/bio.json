@@ -38,10 +38,10 @@
       "startDate": "2024-01-08",
       "endDate": "Present",
       "courses": [
-         "Computer Science: Program Structure using languages C and C++, Introduction to Scripting, and Discrete Math for              Computer Science 2. (Received A in all classes).",
-          "Math:  Linear Algebra & Differential Equations.",
+         "Computer Science: Program Structure using languages C and C++, Introduction to Scripting, and Discrete Math for              Computer Science 2. (Received A in all classes)",
+          "Math:  Linear Algebra & Differential Equations",
           "Foreign Language:  Intermediate Spanish 2",
-          "Fall Classes: Algorithms, Software Engineering 1, Intro to Computer Graphics, and Virtual & Augmented Reality Programming."
+          "Fall Classes: Algorithms, Software Engineering 1, Intro to Computer Graphics, and Virtual & Augmented Reality Programming"
 
       ]
     },
@@ -52,6 +52,13 @@
       "startDate": "2020",
       "endDate": "2023",
       "courses": [
+          "GPA: 3.9. Graduated with Honors",
+          "Creative Media: History of Video Games, Intro to Video Game Design, Introduction to Game Art, Creatives in Media, Music, Sound & Media, Online Video, Esports Primer, Game Design and Development 1, Game Level Design (Unity), The Modern Game Industry, Creative Professionals, The Creative Process, and Senior Project (Unity/C# Video Game)",
+          "Computer Science: Digital Tools for Info World, Intro to Computer Science 1 (Python) & 2 (Java), Operating Systems, and Discrete Math for Computer Science 1",
+          "Math:  Pre-Calculus with Trigonometry and Calculus 1 & 2",
+          "Science: Biology, Physics 1 & 2 with Labs and Chemistry 1 & 2 with Labs",
+          "Foreign Language: Elementary Spanish I & II and Intermediate Spanish 1"
+
       ]
     }
   ],
