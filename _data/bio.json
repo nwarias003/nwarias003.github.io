@@ -64,15 +64,19 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Volunteer Campaign Worker for State Senator Candidate of District 19",
+      "position": "",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2015-06",
+      "endDate": "2018-08",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee official politician website",
+        "Built and waved campaign signs",
+        "Posted banners",
+        "prepared campaign flyers",
+        "canvassed from door to door throughout the Ewa Beach neighborhood",
+        "encouraged individuals to register and vote",
       ]
     }
   ],
@@ -128,7 +132,12 @@
       "awarder": "Testout",
       "summary": "Passed the Testout PC Pro Certification exam. Demonstrated essential skills in computer hardware and operating systems such as: The Motherboard, CPU (Central Processing Unit), Audio, Expansion Slots, External Devices, Memory, Networking, Power Supply, Printing, Security, Storage, System Management, and Video."
     },
-    
+    {
+      "title": "Civil Air Patrol (CAP) Awards",
+      "date": "2014 - 2017",
+      "awarder": "West Oahu Composite Squadron",
+      "summary": "Received the Billy Mitchell Award (2017), Wright Brothers Awards (2015), and Mary Feik Achievement Ribbon (2014) for my outstanding performance and achievements as a cadet. Received the Best Flight Uniform Award (2014) for my outstanding uniform appearance towards the end of the Hawaii Wing Encampment."
+    },
   ],
   "references": [
     {
