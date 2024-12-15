@@ -38,7 +38,7 @@
       "startDate": "2024-01-08",
       "endDate": "Present",
       "courses": [
-         "Computer Science: Program Structure using languages C and C++, Introduction to Scripting, and Discrete Math for              Computer Science 2. (Received A in all classes)",
+         "Computer Science: Program Structure using languages C and C++, Introduction to Scripting, and Discrete Math for Computer Science 2. (Received A in all classes)",
           "Math:  Linear Algebra & Differential Equations",
           "Foreign Language:  Intermediate Spanish 2",
           "Fall Classes: Algorithms, Software Engineering 1, Intro to Computer Graphics, and Virtual & Augmented Reality Programming"
@@ -65,7 +65,6 @@
   "work": [
     {
       "company": "Volunteer Campaign Worker for State Senator Candidate of District 19",
-      "position": "",
       "website": "",
       "startDate": "2018-06",
       "endDate": "2018-08",
@@ -74,9 +73,9 @@
         "Maintain, update, and oversee official politician website",
         "Built and waved campaign signs",
         "Posted banners",
-        "prepared campaign flyers",
-        "canvassed from door to door throughout the Ewa Beach neighborhood",
-        "encouraged individuals to register and vote"
+        "Prepared campaign flyers",
+        "Canvassed from door to door throughout the Ewa Beach neighborhood",
+        "Encouraged individuals to register and vote"
       ]
     }
   ],
@@ -89,7 +88,7 @@
       "endDate": "Present",
       "summary": "Team Lead for Valorant team",
       "highlights": [
-        "Competed in the National Association of Collegiate Esports (NACE) Starleague open tournament with a five member team against various other schools across the country"
+        "Competed in the National Association of Collegiate Esports (NACE) Starleague open tournament with a five-member team against various other schools across the country"
       ]
     }
   ],
