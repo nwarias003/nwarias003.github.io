@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Use of AI in ICS 314"
 # All dates must be YYYY-MM-DD format!
-date: 2024-11-05
+date: 2024-12-16
 published: true
 labels:
   - Design Patterns
