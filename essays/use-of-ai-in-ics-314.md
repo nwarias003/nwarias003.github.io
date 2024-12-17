@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns: The Recipes That Shape Code Masterpieces"
+title: "Use of AI in ICS 314"
 # All dates must be YYYY-MM-DD format!
 date: 2024-11-05
 published: true
