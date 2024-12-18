@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/vacay/boss-from-hell-square.png
-title: "Video Game Senior Project"
+title: "Software Engineering Final Project"
 date: 2024
 published: false
 labels:
