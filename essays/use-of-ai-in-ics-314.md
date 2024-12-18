@@ -6,16 +6,13 @@ title: "Use of AI in ICS 314"
 date: 2024-12-16
 published: true
 labels:
-  - Design Patterns
-  - Bootstrap 5
-  - HTML
-  - CSS
-  - Web Development
+  - AI
   - Software Development
 ---
 
-<img width="700px" class="rounded float-start pe-4" src="../img/difficulty/design_pattern_chart.jpg">
+<img class="img-fluid" src="../img/difficulty/design_pattern_chart.jpg">
 
+## What Are Design Patterns?
 
 Imagine you’re hosting a dinner party. You want to create a memorable meal that impresses your guests or triggers a nostalgic childhood experience. Instead of inventing recipes from scratch, you reach for a trusted cookbook filled with tried-and-true dishes. Design patterns in software development are like those recipes, proven solutions crafted over time by experts to address recurring problems in software architecture.
 
