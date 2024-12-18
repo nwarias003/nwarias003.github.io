@@ -56,8 +56,77 @@ AI tools played a central role in drafting and refining essays. For each essay, 
 
 
 
-**5. Closing Thoughts: Patterns as Foundations**
+**5. Final Project**
 
-Design patterns are more than technical solutions.  They're basically wisdom passed down through generations of developers. They allow us to build on the hard work, successes and failures of others, and help to avoid unnecessary reinvention. Whether you're a novice or a seasoned coder, patterns offer a foundation upon which great software is built.
+For the final project, I used ChatGPT extensively to ensure that we met all requirements across each milestone. ChatGPT helped me put together the documentation page properly, ensuring that it adhered to the project guidelines and was well-structured. Beyond documentation, I used ChatGPT to implement continuous integration (CI) by using GitHub Actions. This involved setting up automated checks so that each commit to the main branch would trigger all of the necessary checks and tests. ChatGPT also assisted me in displaying the results of CI via a badge on our project homepage, providing clear instructions and code snippets to accomplish this efficiently.
 
-If you could just consider design patterns as your own cookbook, it will be the best rules to live by the next time you encounter a coding problem. Just pick the recipe that fits the occasion, adapt it to your needs and create something remarkable. After all, every masterpiece, whether it be a meal, a roof or a software system, all begins with a well-crafted design.
+This support was critical in helping our team deliver a polished and functional final project. ChatGPT allowed me to troubleshoot any issues quickly, ensuring that the system operated seamlessly and met the project’s technical requirements.
+
+**6. Learning a Concept / Tutorial**
+
+I used ChatGPT to assist me in understanding new concepts introduced during the course. This was particularly valuable when learning about Next.js, React, PostgreSQL, pgAdmin, Vercel, and effectively following issue-driven project management practices on GitHub. ChatGPT provided clear explanations and practical examples, helping me grasp the fundamentals of these technologies. For instance, when I struggled with deploying an application using Vercel, I asked ChatGPT, “How do I configure my Next.js app for deployment on Vercel?” The response outlined the step-by-step process clearly, enabling me to successfully complete the task while deepening my understanding of deployment processes.
+
+
+**7. Answering a Question in Class or on Discord**
+
+I did not use AI when answering questions in class or on Discord. I felt that doing so would diminish the learning experience and defeat the purpose of taking the course. Relying on AI to provide immediate answers would have prevented me from fully engaging with the material and developing my own understanding. Instead, I focused on problem-solving independently, recognizing that the course's value lay in learning to think critically.
+
+**8. Asking or Answering a Smart Question**
+
+I did not answer any smart questions in the class' Discord server. However, if I were to answer a question, I would first attempt to answer it on my own. Then, I would use AI tools like ChatGPT to cross-check my answer and ensure the information I provided was correct. This approach would help me to validate my understanding and ensure that the guidance I offered was accurate and reliable.
+
+**9. Coding Example (e.g., “Give an example of using Underscore .pluck”)**
+
+I made extensive use of ChatGPT to provide coding examples for various concepts. For example, I asked it to demonstrate the usage of methods, such as “.map,” “.filter” and “.reduce” in TypeScript to manipulate arrays. ChatGPT provided clear explanations along with practical code snippets, such as filtering even numbers from an array, mapping them to their squares and then reducing the results to their sum. These examples not only clarified the functionality of these methods but also helped me apply them confidently in assignments and WODs.
+
+**10. Explaining Code**
+
+I relied heavily on AI to explain the code I had written, particularly during the in-class Practice WODs. By inputting my implementations into ChatGPT, I was able to gain a detailed understanding of what each part of my code was doing. This process ensured that I fully understood the logic, purpose and potential improvements for my work. For example, after completing steps in the Next.js Template Dollar in-class Practice WOD, such as updating the List Stuff page to display the Value field or adding a required Value field in the Add Stuff page, I used ChatGPT to clarify how these updates interacted with the components and functions. ChatGPT provided explanations of how changes to “page.tsx,” “AddStuffForm.tsx” and “dbActions.ts” influenced data flow and functionality. This frequent use of AI explanations gave me confidence in my code and improved my ability to articulate its functionality during discussions and documentation.
+
+**11. Writing Code**
+
+I used ChatGPT extensively to assist with writing code, especially during the in-class WODs. These tasks had strict time constraints, and ChatGPT helped reduce the likelihood of errors or missed steps from the instructions. By providing clear and concise code examples, it ensured I could implement the required functionality efficiently. For example, during the "NextJs1" WOD, I completed the given task with the assistance of ChatGPT. It helped me ensure that I was on the right track when forming and recreating the Aloha Beer website. ChatGPT guided me in putting together components like the TopMenu, SecondMenu, CenterImage, and Footer, as well as editing the Page.tsx file and modifying layout.tsx and global.css. This assistance minimized issues and significantly sped up the process, allowing me to meet all requirements within the time constraints.
+
+**12. Documenting Code**
+
+When it came to documenting my work, I wrote most of the initial comments and explanations myself to ensure I fully articulated what my code did. Afterward, I used ChatGPT to grammar and fact-check my work, verifying the accuracy of my descriptions and refining the language for clarity and professionalism. This process was particularly helpful when documenting more complex components, as ChatGPT confirmed my explanations aligned with coding best practices while maintaining readability.
+
+**13. Quality Assurance**
+
+I frequently relied on ChatGPT to address error fixes, particularly when dealing with issues flagged by ESLint that couldn’t be quickly resolved. By inputting the error messages into ChatGPT, I was able to understand exactly what needed to be done to fix them. This process not only saved time but also helped me learn how to approach similar problems in the future. ChatGPT's explanations provided clarity on why certain fixes were required, ensuring I applied the solutions effectively and consistently.
+
+**14. Other Uses in ICS 314**
+
+I believe the previous sections covered all my use cases of AI in ICS 314.  
+
+## III. Impact on Learning and Understanding
+
+AI tools significantly enhanced my learning experience in ICS 314 by providing immediate feedback, clarifying complex topics and supporting problem-solving. Rather than hindering my ability, AI complimented my efforts to understand concepts more deeply. For example, ChatGPT’s ability to explain code and debug errors reinforced my understanding of foundational principles, such as state management and dynamic routing in React. By using AI tools thoughtfully, I was able to expand my problem-solving capabilities while maintaining an active role in my learning process. This balance between AI assistance and independent effort strengthened my comprehension and skill development, making AI an invaluable resource throughout my educational journey.
+
+## IV. Practical Applications
+
+Beyond ICS 314, I utilized AI tools in other courses like ICS 481 (Introduction to Computer Graphics) and ICS 486 (Virtual Reality/Augmented Reality (VR/AR). In ICS 481, ChatGPT helped me understand complex concepts, such as scene graph hierarchies and OpenGL rendering techniques. For example, while working on animating a snowman, I used ChatGPT to clarify how to implement hierarchical transformations effectively, which allowed me to achieve smooth and realistic movements. Additionally, I relied on AI to troubleshoot issues with shading and lighting, ensuring my final renders met the project’s technical requirements.
+
+In ICS 486, AI played a pivotal role in the development of VR/AR projects. One key use case was creating an interactive virtual shooting range for Meta Quest 3. ChatGPT assisted me in refining Unity scripts for dynamic object spawning and teleportation mechanics, as well as optimizing spatial sound integration. These AI-driven insights streamlined the development process and allowed me to focus on enhancing user experience and functionality. These experiences demonstrate how AI can bridge academic learning with real-world applications, empowering students to tackle advanced technical challenges with confidence.
+
+## V. Challenges and Opportunities
+
+One significant challenge with AI was evaluating the accuracy of its responses. Generic or incorrect outputs often required careful verification and adjustment, which could be time-consuming. For instance, while resolving an issue with the navbar during the Aloha Beer Kaka’ako Next.js WOD, ChatGPT repeatedly gave me the same incorrect output, causing a constant loop in troubleshooting. To resolve the issue, I had to create a new chat and reframe my question, which eventually led to a correct solution but added extra time to the process.
+
+Despite challenges like these, AI tools present immense opportunities for personalized learning, fostering creativity and enhancing productivity. With proper integration and guidelines, AI can become a powerful complement to traditional educational methods, empowering students to tackle complex problems effectively.
+
+## VI. Comparative Analysis
+
+Traditional teaching methods prioritize foundational understanding and critical thinking, whereas AI tools offer real-time assistance and scalability. Both approaches have unique strengths: traditional methods encourage deeper comprehension, while AI accelerates the learning process and introduces diverse perspectives. My experience in ICS 314 demonstrated that combining these approaches yields the best outcomes, with AI tools complementing the knowledge gained through traditional instruction and enhancing practical skill development.
+
+## VII. Future Considerations
+
+The future of AI in software engineering education lies in developing intelligent and  adaptive tools that cater to individual learning needs. These tools could provide targeted feedback and personalized learning paths, making education more efficient and engaging. Addressing ethical concerns and biases in AI-generated content will be crucial to its successful integration. As AI technology evolves, its role in shaping the future of software engineering education will undoubtedly grow in importance.
+
+## VIII. Conclusion
+
+Reflecting on my use of AI in ICS 314, I recognize how these tools have reshaped the way I approach learning and problem-solving. AI significantly enhanced my efficiency and understanding, allowing me to tackle challenges with confidence while expanding my skills in software engineering. However, this journey also reinforced the importance of balancing AI reliance with foundational learning and critical thinking.
+
+Personally, I found that AI acted as both a mentor and a collaborator, guiding me through complex tasks while encouraging me to stay actively engaged in the process. For example, troubleshooting errors or validating solutions with AI often deepened my comprehension of the underlying concepts. Moving forward, I plan to continue leveraging AI not as a shortcut, but as a tool to complement my growth as a developer.
+
+To optimize the integration of AI in education, clear guidelines and an emphasis on independent problem-solving will be essential. By using AI responsibly, students can unlock its full potential and build a strong foundation for future success in software engineering and beyond.
