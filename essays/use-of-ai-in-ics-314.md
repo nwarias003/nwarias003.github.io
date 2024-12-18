@@ -23,7 +23,7 @@ labels:
 Artificial Intelligence (AI) has emerged as a transformative tool in education, offering innovative ways to tackle complex fields, such as Software Engineering. Within ICS 314, AI tools like ChatGPT and Copilot significantly influenced my learning process. These technologies supported me in understanding challenging concepts, debugging code and boosting productivity. They helped me to address academic challenges efficiently and encouraged exploration of creative solutions that might not have been considered otherwise. This essay reflects upon my use of AI throughout ICS 314, highlighting specific applications utilized, challenges encountered and the lessons Ilearned about integrating AI effectively into the educational process.
 
 ## II. Personal Experience with AI
-<be>
+<br>
 
 **1. Experience WODs (e.g., E18)**
 
