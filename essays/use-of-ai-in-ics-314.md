@@ -11,12 +11,14 @@ labels:
 ---
 
 <div class="text-center">
-  <img class="img-fluid shadow-lg" src="../img/difficulty/ai_anime.jpg" style="max-width: 60%; height: auto;">
+  <img class="img-fluid" src="../img/difficulty/ai_anime.jpg" 
+       style="max-width: 60%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" 
+       alt="AI Anime Image">
 </div>
 <br>
 
 
-## What Are Design Patterns?
+# What Are Design Patterns?
 
 Imagine you’re hosting a dinner party. You want to create a memorable meal that impresses your guests or triggers a nostalgic childhood experience. Instead of inventing recipes from scratch, you reach for a trusted cookbook filled with tried-and-true dishes. Design patterns in software development are like those recipes, proven solutions crafted over time by experts to address recurring problems in software architecture.
 
