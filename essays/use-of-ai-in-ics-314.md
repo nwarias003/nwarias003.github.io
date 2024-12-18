@@ -11,8 +11,9 @@ labels:
 ---
 
 <div class="text-center">
-  <img class="img-fluid" src="../img/difficulty/ai_anime.jpg" style="max-width: 80%; height: auto;">
+  <img class="img-fluid shadow" src="../img/difficulty/ai_anime.jpg" style="max-width: 60%; height: auto;">
 </div>
+
 
 
 ## What Are Design Patterns?
