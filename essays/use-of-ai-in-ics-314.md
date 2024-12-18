@@ -12,7 +12,7 @@ labels:
 
 <div class="text-center">
   <img class="img-fluid" src="../img/difficulty/ai_anime.jpg" 
-       style="max-width: 70%; height: auto; box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.5); border-radius: 4px;" 
+       style="max-width: 80%; height: auto; box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.5); border-radius: 4px;" 
        alt="AI Anime Image">
 </div>
 <br>
