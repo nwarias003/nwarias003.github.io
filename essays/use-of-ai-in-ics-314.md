@@ -25,13 +25,13 @@ Artificial Intelligence (AI) has emerged as a transformative tool in education, 
 ## II. Personal Experience with AI
 <be>
 
-  ### Experience WODs (e.g., E18)
+### Experience WODs (e.g., E18)
 
 For each Experience Workout of the Day (WOD), I started by attempting to complete the assignment entirely on my own without the assistance of AI. I believe that by using this initial strategy, it allowed me to focus on developing my problem-solving skills and improving my ability to analyze coding tasks independently. However, if I spent too much time on a single step, typically five to seven minutes, without making significant progress, I resorted to using AI tools like ChatGPT and Copilot for guidance. With AI’s assistance, I was able to get back on track quickly, implement the necessary components and ensure the program worked as intended. After overcoming the initial challenges, I would reset the timer and attempt the WOD again, this time using what I learned to improve my efficiency. On these second and subsequent attempts, I relied more on AI to ensure I was on the right track and assist me with completing specific tasks required for the WOD. AI became particularly valuable for debugging and resolving any issues that came up during the process. For example, when I encountered an unexpected runtime error while working on E50: Digits Part 2 (List Contacts Page), I had to ask ChatGPT, “How do I resolve this undefined error in order to get my webpage back up?” The explanations provided not only resolved the immediate issue but also deepened my understanding of how to prevent similar errors in the future.
 
 By relying on AI more during reattempts, I could systematically validate my approach and refine the details of my implementation. AI tools helped me to debug efficiently, clarify doubts and fine-tune my code to ensure everything was functioning correctly. This process reduced uncertainties in how to proceed, helped me to identify areas for optimization and improved my overall completion time for each WOD task. Overtime, this combination of independent effort and targeted AI assistance strengthened my coding skills, increased my confidence and reinforced my understanding of key concepts.
 
-  ### In-class Practice WODs
+### In-class Practice WODs
 
 At first, I relied on using Copilot during the in-class Practice WODs because of its ability to provide suggestions by making use of internet-based resources. This was particularly helpful when working on the given tasks as Copilot would generate up-to-date solutions and relevant examples, which were especially useful when I was given tasks that involved new or unfamiliar concepts. For instance, during the History of Surfing in-class Practice WOD, I was tasked with creating a simple Hyper Text Markup Language (HTML) and Cascading Style Sheets (CSS) page featuring a centered heading, a background image, contrasting font colors, and Google Fonts. Additionally, I had to include an introductory and profile section that included images properly sized and floated of four professional surfers.
 
