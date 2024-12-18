@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Use of AI in ICS 314"
+title: "From Bugs to Breakthroughs: How AI Elevated My ICS 314 Journey"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-16
 published: true
@@ -10,7 +10,10 @@ labels:
   - Software Development
 ---
 
-<img class="img-fluid" src="../img/difficulty/ai_anime.jpg">
+<div class="text-center">
+  <img class="img-fluid" src="../img/difficulty/ai_anime.jpg" style="max-width: 80%; height: auto;">
+</div>
+
 
 ## What Are Design Patterns?
 
