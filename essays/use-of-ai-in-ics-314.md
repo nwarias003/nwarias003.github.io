@@ -10,7 +10,7 @@ labels:
   - Software Development
 ---
 
-<img class="img-fluid" src="../img/difficulty/design_pattern_chart.jpg">
+<img class="img-fluid" src="../img/difficulty/ai_anime.jpg">
 
 ## What Are Design Patterns?
 
