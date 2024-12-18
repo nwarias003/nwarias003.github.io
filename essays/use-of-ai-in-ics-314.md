@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "From Bugs to Breakthroughs: How AI Elevated My ICS 314 Journey"
 # All dates must be YYYY-MM-DD format!
-date: 2024-12-16
+date: 2024-12-17
 published: true
 labels:
   - AI
