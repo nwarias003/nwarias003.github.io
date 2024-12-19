@@ -1,17 +1,18 @@
 ---
 layout: essay
 type: essay
-title: "From Bugs to Breakthroughs: How AI Elevated My ICS 314 Journey"
+title: "Beyond Web Development: Core Lessons in Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2024-12-17
+date: 2024-12-19
 published: true
 labels:
-  - AI
-  - Software Development
+  - Reflection
+  - Software Engineering
+  - ICS 314
 ---
 
 <div class="text-center">
-  <img class="img-fluid" src="../img/difficulty/ai_anime.jpg" 
+  <img class="img-fluid" src="../img/difficulty/ai_anime_2.jpg" 
        style="max-width: 80%; height: auto; box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.5); border-radius: 4px;" 
        alt="AI Anime Image">
 </div>
