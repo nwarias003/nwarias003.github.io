@@ -99,7 +99,7 @@ On the non-technical side, I learned the importance of:
 
 When you first bring up the application, you will see the landing page that provides a brief introduction to Weekend Warrior:
 
-<img src="https://nwarias003.github.io/img/weekend/updated_home_1.png" style=" width: 300px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+<img src="https://nwarias003.github.io/img/weekend/updated_home_1.png" style=" width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
  
 ### Register
 If you do not yet have an account on the system, you can register by clicking on “Login,” then “Sign Up.” On the Sign Up page, users can create an account by providing their email, a username, password (with confirmation), full name, phone number, gender, and interests. The interests field allows users to input activities or hobbies, separated by commas, that help personalize their profile. After filling out the form, users can click the Register button to submit their information or the Reset button to clear the form:
