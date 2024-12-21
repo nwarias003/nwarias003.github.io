@@ -61,18 +61,45 @@ Click <a href="https://weekend-warrior-code-sigma.vercel.app">here</a> to view W
 
 ## Project Contributions
 
+I contributed significantly to the Weekend Warrior project across several key areas. My primary responsibility was developing and finalizing the documentation page, and ensuring it provided clear, comprehensive and user-friendly information about the project. This involved structuring sections for features, usage instructions and visuals. Plus, ensuring consistency and clarity to effectively communicate the app's purpose and functionality. The documentation highlights key features, such as activity posting, user registration and admin controls. In addition, it includes a detailed user guide supported by screenshots to enhance usability. 
+
+I also set up GitHub Actions for continuous integration to automate testing and linting processes. This streamlined the development workflow, maintained code quality and ensured a stable and efficient development process. 
+
+Furthermore, I contributed to the design and implementation of the application, focusing on creating a seamless and visually appealing user experience while prioritizing user safety. My efforts included helping to develop the landing, activities listing and user profile pages while integrating responsive design principles using Next.js and React. In addition, I focused on user safety by ensuring that suspicious individuals would not have easy access to users' personal information, which was a critical consideration in the application's design.
+
+Beyond technical contributions, I played a key role in milestone validation, ensuring the project met all specified requirements. By reviewing progress and verifying deliverables, I helped the team stay aligned with project goals. These efforts underscored the importance of meeting project expectations and delivering a high-quality final product.
+
+Overall, my contributions to the project demonstrated a balance between technical expertise, user-centered design and a commitment to fulfilling project milestones, ensuring the success of the Weekend Warrior application.
 
 ## Lessons Learned
 
+This project provided me with invaluable lessons in both technical and non-technical aspects of software development. On the technical side, I gained hands-on experience with:
 
+- Next.js Framework: Deepened my understanding of server-side rendering and API integration within the Next.js ecosystem.
 
-## User Guide
+- Prisma ORM: Learned to configure and use Prisma for seamless database interactions, including schema migrations and seeding.
+
+- Continuous Integration: Gained insight into setting up and maintaining CI pipelines using GitHub Actions to ensure a stable and efficient development workflow.
+
+- Documentation Skills: Learned how to structure and create detailed documentation that is accessible to both users and developers, bridging the gap between technical complexity and usability.
+
+- Milestone Validation: Gained experience in tracking project requirements and verifying deliverables to ensure alignment with goals.
+
+On the non-technical side, I learned the importance of:
+
+- Effective Communication: Collaborating with a team required clear and frequent communication to resolve blockers and ensure alignment on project goals.
+
+- Time Management: Balancing individual tasks with team responsibilities taught me to prioritize and manage time effectively.
+
+- Issue-Driven Project Management: Adhering to this methodology emphasized the value of breaking down complex tasks into manageable issues, which improved overall productivity.
+
+## User Guide:
 
 ### Landing Page
 
 When you first bring up the application, you will see the landing page that provides a brief introduction to Weekend Warrior:
 
-<img src="https://nwarias003.github.io/img/weekend/updated_home_1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+<img src="https://nwarias003.github.io/img/weekend/updated_home_1.png" style=" width: 300px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
  
 ### Register
 If you do not yet have an account on the system, you can register by clicking on “Login,” then “Sign Up.” On the Sign Up page, users can create an account by providing their email, a username, password (with confirmation), full name, phone number, gender, and interests. The interests field allows users to input activities or hobbies, separated by commas, that help personalize their profile. After filling out the form, users can click the Register button to submit their information or the Reset button to clear the form:
