@@ -27,7 +27,7 @@ summary: "An application I worked on for my ICS 314 Software Engineering Final P
 - [Technologies Used](#technologies-used)
 - [Group Contract](#group-contract)
 - [GitHub Organization ](#github-organization)
-- [Docummentation](#docummentation)
+- [Documentation](#documentation)
 - [Web Application](#web-application)
 - [Project Contributions](#project-contributions)
 - [Lessons Learned](#lessons-learned)
@@ -57,7 +57,7 @@ Click <a href="https://docs.google.com/document/d/11WCz0wKi_EQwpVjwTQwwox7MkSHgH
 ## GitHub Organization 
 Click <a href="https://github.com/weekend-warrior-uhm">here</a> to view the Weekend Warrior project repository.
 
-## Docummentation 
+## Documentation 
 Click <a href="https://weekend-warrior-uhm.github.io/">here</a> to view the Weekend Warrior documentation page.
 
 ## Web Application 
