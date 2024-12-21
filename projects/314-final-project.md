@@ -24,15 +24,13 @@ summary: "An application I worked on for my ICS 314 Final Project."
 
 - [Overview](#overview)
 - [Project Goals](#project-goals)
+- [Technologies Used](#technologies-used)
 - [Group Contract](#group-contract)
 - [GitHub Organization ](#github-organization)
-- [Continuous Integration](#continuous-integration)
-- [Development History](#development-history)
-- [Vercel Deployment](#vercel-deployment)
-- [Community Feedback](#community-feedback)
+- [Web Application](#web-application)
+- [Project Contributions](#project-contributions)
+- [Lessons Learned](#lessons-learned)
 - [User Guide](#user-guide)
-- [Installation Instructions](#installation-instructions)
-- [Meet The Team](#meet-the-team)
 
 
 ## Overview
@@ -45,72 +43,27 @@ Weekend Warrior is a platform that allows users to post their upcoming weekend p
 - Users can create or find activities to join.
 - Admins ensure content safety and platform use.
 
+## Technologies Used
+- Frontend: Typescript, Bootstrap, React, Next.js
+- Backend: Node.js, Prisma ORM
+- Database: PostgreSQL
+- Deployment: Vercel
+- Version Control: GitHub
+
 ## Group Contract
 Click <a href="https://docs.google.com/document/d/11WCz0wKi_EQwpVjwTQwwox7MkSHgHivBXGg_-en4Drg/edit?usp=sharing">here</a> to view our group contract.
-
 
 ## GitHub Organization 
 Click <a href="https://github.com/weekend-warrior-uhm">here</a> to view the Weekend Warrior project repository.
 
-## Continuous Integration
-
-![CI Status](https://github.com/weekend-warrior-uhm/weekend-warrior-code/actions/workflows/ci.yml/badge.svg)
-
-Weekend Warrior uses [GitHub Actions](https://docs.github.com/en/actions) to automatically run ESLint and Playwright tests each time a commit is made to the default branch. You can see the results of all recent "workflows" at [https://github.com/weekend-warrior-uhm/weekend-warrior-code/actions](https://github.com/weekend-warrior-uhm/weekend-warrior-code/actions).
-
-The workflow definition file is straightforward and is located at
-[.github/workflows/ci.yml](https://github.com/weekend-warrior-uhm/weekend-warrior-code/blob/main/.github/workflows/ci.yml).
-
-
-## Development History
-The development process for Weekend Warrior conformed to Issue Driven Project Management practices. In a nutshell:
-
-The development consists of a sequence of milestones, and each milestone is specified as a set of tasks. These tasks are then described using a GitHub Issue, and each issues is assigned to a single developer to complete. These tasks should typically consist of work that can be completed in 2-4 days. Furthermore, the work for each task is accomplished with a git branch named “issue-XX”, where XX is replaced by the issue number. When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into the master branch. The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
-
-The following sections document the development history of Weekend Warrior.
-
-### Milestone 1
-
-Decide on a theme, layout and structure for the landing page.
-
-- Description
-- Sign up
-- Login/Sign out
-- Landing and Home pages
-
-<img src="https://nwarias003.github.io/img/weekend/M1_project.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
-
-
-Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/1/views/1">here</a> to view M1 Project page.
-
-### Milestone 2
-
-- Activity Posts
-- Administrative Privileges
-- Read/Write
-- Search/Browse Activities
-- Removal of expired activities
-
-<img src="https://nwarias003.github.io/img/weekend/updated_M2_project.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
-
-Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/4/views/1">here</a> to view M2 Project page.
-
-### Milestone 3
-
-- Implement user-friendly design
-- Logo
-- Background
-- Colors
-
-<img src="https://nwarias003.github.io/img/weekend/updated_M3_project.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
-
-Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/5/views/1">here</a> to view M3 Project page.
-
-## Vercel Deployment 
+## Web Application 
 Click <a href="https://weekend-warrior-code-sigma.vercel.app">here</a> to view Weekend Warrior deployed on Vercel.
 
-## Community Feedback
-We are interested in your experience using Weekend Warrior! If you would like, please take a couple of minutes to fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdrWeETfYEjw8oqLx-X0x7NTqaUBytmYJ4bCKiufgvyK1YpMg/viewform?usp=sf_link">Weekend Warrior Feedback Form</a>. It contains only five short questions and will help us understand how to improve the system.
+## Project Contributions
+
+
+## Lessons Learned
+
 
 
 ## User Guide
@@ -203,174 +156,5 @@ Clicking on the Contact & Support link in the footer opens a page with helpful r
 Clicking on the Safety Reminders link in the footer brings up a page that provides essential safety guidelines for users. The page includes General Safety Tips, such as meeting in public places, informing someone about your plans, and trusting your instincts if you feel uncomfortable. It also offers Activity-Specific Tips with advice for hiking, water activities, and cycling to ensure users stay safe during their activities. Additionally, the Emergency Preparedness section emphasizes the importance of planning ahead, carrying essential items like a first aid kit, and staying informed about weather updates and local advisories. For further details, the page includes links to the Community Guidelines, Privacy Policy, and Terms of Service to help users stay informed and protected:
 
 <img src="https://nwarias003.github.io/img/weekend/updated_safety_reminders.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
-
-
-## Installation Instructions
-
-First, [install PostgreSQL](https://www.postgresql.org/download/). Then create a database for the application.
-
-```
-
-$ createdb weekend-warrior
-Password: <password>
-$
-
-```
-
-Second, go to [[https://github.com/weekend-warrior-uhm/weekend-warrior-code](https://github.com/weekend-warrior-uhm/weekend-warrior-code)](https://github.com/weekend-warrior-uhm/weekend-warrior-code), and download the code. Create a new repository using the source code installed on your system.
-
-Third, cd into the directory of your local copy of the repo, and install third-party libraries with:
-
-```
-
-$ npm install
-
-```
-
-Fourth, create a `.env` file from the `sample.env`. Set the `DATABASE_URL` variable to match your PostgreSQL database that you created in the first step. See the Prisma docs [Connect your database](https://www.prisma.io/docs/getting-started/setup-prisma/add-to-existing-project/relational-databases/connect-your-database-typescript-postgresql). Then run the Prisma migration `npx prisma migrate dev` to set up the PostgreSQL tables.
-
-```
-
-$ npx prisma migrate dev
-Environment variables loaded from .env
-Prisma schema loaded from prisma/schema.prisma
-Datasource "db": PostgreSQL database "<your database name>", schema "public" at "localhost:5432"
-
-Applying migration `20240708195109_init`
-
-The following migration(s) have been applied:
-
-migrations/
-└─ 20240708195109_init/
-└─ migration.sql
-
-Your database is now in sync with your schema.
-
-✔ Generated Prisma Client (v5.16.1) to ./node_modules/@prisma/client in 51ms
-
-$
-
-```
-
-Then seed the database with the `/config/settings.development.json` data using `npx prisma db seed`.
-
-```
-
-$ npx prisma db seed
-Environment variables loaded from .env
-Running seed command `ts-node --compiler-options {"module":"CommonJS"} prisma/seed.ts` ...
-Seeding the database
-Creating user: admin@foo.com with role: ADMIN
-Creating user: john@foo.com with role: USER
-
-
-🌱 The seed command has been executed.
-$
-
-```
-
-## Running the system
-
-Once the libraries are installed and the database seeded, you can run the application by invoking the "dev" script in the package.json file
-
-```
-
-$ npm run dev
-
-> nextjs-application-template-1@0.1.0 dev
-> next dev
-
-▲ Next.js 14.2.4
-
-- Local: http://localhost:3000
-- Environments: .env
-
-✓ Starting...
-✓ Ready in 1619ms
-
-```
-
-### Viewing the running app
-
-If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000). You can login using the credentials in settings.development.json, or else register a new account.
-
-### ESLint
-
-You can verify that the code obeys our coding standards by running ESLint over the code in the src/ directory with:
-
-```
-$ npm run lint
-
-> nextjs-application-template-1@0.1.0 lint
-> next lint
-
-✔ No ESLint warnings or errors
-$
-```
-
-
-<!-- 
-### Add Contacts
-From the Home page or List Contacts page, the user can click the "Add Contact" link to bring up a page that allows them to enter new contact information. This page includes fields for the contact's first and last names, address, image, and description. After filling out the form, the user can save the new contact, which will then appear in the list of contacts.
-
-<img src="https://nwarias003.github.io/img/weekend/add.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Add Contact Page Screenshot">
-
-
-### Edit Contacts
-From the List Contacts page, the user can click the “Edit” link associated with any Contact to bring up a page that allows that Contact information to be edited:
-
-<img src="https://nwarias003.github.io/img/weekend/edit.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Edit Contact Page Screenshot">
--->
-
-## Meet The Team
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-
-  <!-- First Person -->
-  <div style="flex: 1; padding: 10px; min-width: 250px;">
-    <h2>Nigel Arias</h2>
-    <img src="https://nwarias003.github.io/img/weekend/NigelAriasHeadShot.jpg" alt="Nigel Arias" style="width: 200px; height: 250px; object-fit: cover; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
-    <p style="margin-top: 10px;">
-      Contact info: <br>
-       - Email: narias8@hawaii.edu<br>
-      <a href="https://nwarias003.github.io/">Portfolio</a>
-    </p>
-  </div>
-
-  <!-- Second Person -->
-  <div style="flex: 1; padding: 10px; min-width: 250px;">
-    <h2>Sean Flynn</h2>
-    <img src="https://nwarias003.github.io/img/weekend/SeanHeadShot.jpg" alt="Sean Flynn" style="width: 200px; height: 250px; object-fit: cover; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
-    <p style="margin-top: 10px;">
-      Contact info: <br>
-       - Email: sflynn7@hawaii.edu<br>
-      <a href="https://seanhflynn.github.io/">Portfolio</a>
-    </p>
-  </div>
-
-  <!-- Third Person -->
-  <div style="flex: 1; padding: 10px; min-width: 250px;">
-    <h2>Min Jun Han</h2>
-    <img src="https://nwarias003.github.io/img/weekend/MinJunHanHeadShot.png" alt="Min Jun Han" style="width: 200px; height: 250px; object-fit: cover; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
-    <p style="margin-top: 10px;">
-      Contact info: <br>
-       - Email: minjun@hawaii.edu<br>
-      <a href="https://min-808.github.io/">Portfolio</a>
-    </p>
-  </div>
-
-  <!-- Fourth Person -->
-  <div style="flex: 1; padding: 10px; min-width: 250px;">
-    <h2>Mhar Olipani</h2>
-    <img src="https://nwarias003.github.io/img/weekend/MharHeadShot.jpg" alt="Mhar Olipani" style="width: 200px; height: 250px; object-fit: cover; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
-    <p style="margin-top: 10px;">
-      Contact info: <br>
-       - Email: mhar@hawaii.edu<br>
-      <a href="https://mharolipani.github.io/">Portfolio</a>
-    </p>
-  </div>
-
-</div>
-
 
 
