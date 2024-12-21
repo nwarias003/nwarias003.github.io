@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/weekend/mascot.png
-title: "Software Engineering Final Project"
+title: "Weekend Warrior"
 date: 2024
 published: True
 labels:
@@ -11,7 +11,7 @@ labels:
   - Typescript
   - Next.js
   - React
-summary: "An application I worked on for my ICS 314 Final Project."
+summary: "An application I worked on for my ICS 314 Software Engineering Final Project."
 ---
 
 <!-- <link rel="stylesheet" href="style.css"> -->
