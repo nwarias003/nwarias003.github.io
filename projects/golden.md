@@ -35,9 +35,7 @@ summary: "A virtual reality project I worked on for my ICS 496 Capstone Project.
 
 
 ## Overview
-Many UH Manoa students and locals have a hard time finding people with similar interests to join them in outdoor activities and hobbies. Whether it’s hiking, beach outings, surfing, or just hanging out, it’s not always easy to find partners or groups that align with specific plans or schedules.
-
-Weekend Warrior is a platform that allows users to post their upcoming weekend plans or desired activities and connect with others interested in joining them. This app would serve as a local meetup spot for casual and activity-based connections. It will also make it easier to find activity buddies and plan for fun weekends.
+A virtual reality (VR) experience representing the flight of migrating juvenile Golden Eagles. Using Unity and GPS tracking data collected by University of Wyoming (UWO) ecologists, we have integrated it into a VR data visualization experience for those same researchers. Bridging the gap between raw data and the real world, researchers are able to re-live and experience flying alongside the eagle, thus enabling insights not possible before with simpler data visualization techniques.
 
 ## Project Goals
 
