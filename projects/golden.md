@@ -136,17 +136,17 @@ The project also used recorded flight data to help represent the eagle's movemen
 
 <!-- TODO: Replace this image with a screenshot of the animation timeline or animation preview. -->
 
-<img src="https://nwarias003.github.io/img/golden/Screenshot 2026-10-28 082358.png" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+<img src="https://nwarias003.github.io/img/golden/ezgif.com-video-to-gif-converter1.gif" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
 
-<img src="https://nwarias003.github.io/img/golden/Screenshot 2026-10-28 082358.png" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+<img src="https://nwarias003.github.io/img/golden/glideleft-ezgif.com-video-to-gif-converter.gif" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
 
-<img src="https://nwarias003.github.io/img/golden/Screenshot 2026-10-28 082358.png" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+<img src="https://nwarias003.github.io/img/golden/glideright-ezgif.com-video-to-gif-converter.gif" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
 
-<img src="https://nwarias003.github.io/img/golden/Screenshot 2026-10-28 082358.png" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+<img src="https://nwarias003.github.io/img/golden/Flapping-ezgif.com-video-to-gif-converter.gif" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
 
-<img src="https://nwarias003.github.io/img/golden/Screenshot 2026-10-28 082358.png" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+<img src="https://nwarias003.github.io/img/golden/flappingleft-ezgif.com-video-to-gif-converter.gif" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
 
-<img src="https://nwarias003.github.io/img/golden/Screenshot 2026-10-28 082358.png" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+<img src="https://nwarias003.github.io/img/golden/flappingright-ezgif.com-video-to-gif-converter.gif" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
 
 
 *Animation tree and flight animation development in Unity.*
