@@ -58,7 +58,7 @@ A virtual reality (VR) experience representing the flight of migrating juvenile 
 
 
 ## Documentation 
-Click <a href="[https://weekend-warrior-uhm.github.io/](https://drive.google.com/drive/folders/1DBwkojOSYPcGsmRUpERf2d5wzzO058-t?usp=sharing)">here</a> to view the Golden Eagle documentation/milestones.
+Click <a href="https://drive.google.com/drive/folders/1DBwkojOSYPcGsmRUpERf2d5wzzO058-t?usp=sharing">here</a> to view the Golden Eagle documentation/milestone slideshows.
 
 ## Web Application 
 Click <a href="https://weekend-warrior-code-sigma.vercel.app">here</a> to view Weekend Warrior deployed on Vercel.
