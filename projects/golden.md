@@ -112,6 +112,12 @@ The process involved inspecting the mesh, painting vertex weights, testing defor
 
 <!-- TODO: Replace this image with a Blender weight-painting screenshot. -->
 
+<img src="https://nwarias003.github.io/img/golden/Untitledvideo-MadewithClipchamp54-ezgif.com-video-to-gif-converter.gif" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Weight 1">
+
+<img src="https://nwarias003.github.io/img/weekend/updated_home_1.png" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+
+<img src="https://nwarias003.github.io/img/weekend/updated_home_1.png" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+
 <img src="https://nwarias003.github.io/img/weekend/updated_home_1.png" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
 
 *Blender weight-painting workflow for the Golden Eagle model.*
