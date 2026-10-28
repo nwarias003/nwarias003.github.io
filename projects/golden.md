@@ -160,7 +160,12 @@ The project also demonstrated how 3D animation can contribute to scientific visu
 ## Project Gallery:
 
 <img src="https://nwarias003.github.io/img/golden/Screenshot 2026-10-28 082358.png" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
- 
+
+<img src="https://nwarias003.github.io/img/golden/IMG_4185.jpg" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+
+<img src="https://nwarias003.github.io/img/golden/IMG_0862.jpg" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+
+<img src="https://nwarias003.github.io/img/golden/IMG_0861.jpg" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
 
 
 
