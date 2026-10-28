@@ -28,7 +28,6 @@ summary: "A virtual reality data visualization project I worked on for my ICS 49
 - [Project Goals](#project-goals)
 - [Technologies Used](#technologies-used)
 - [Documentation](#documentation)
-- [Web Application](#web-application)
 - [Project Contributions](#project-contributions)
 - [3D Model and Weight Painting](#3d-model-and-weight-painting)
 - [Flight Animation and Animation Tree](#flight-animation-and-animation-tree)
@@ -60,20 +59,44 @@ A virtual reality (VR) experience representing the flight of migrating juvenile 
 ## Documentation 
 Click <a href="https://drive.google.com/drive/folders/1DBwkojOSYPcGsmRUpERf2d5wzzO058-t?usp=sharing">here</a> to view the Golden Eagle documentation/milestone slideshows.
 
-## Web Application 
-Click <a href="https://weekend-warrior-code-sigma.vercel.app">here</a> to view Weekend Warrior deployed on Vercel.
-
 ## Project Contributions
 
-I contributed significantly to the Weekend Warrior project across several key areas. My primary responsibility was developing and finalizing the documentation page, and ensuring it provided clear, comprehensive and user-friendly information about the project. This involved structuring sections for features, usage instructions and visuals. Plus, it ensured consistency and clarity to help effectively communicate the app’s purpose and functionality. The documentation highlights key features, such as activity posting, user registration and admin controls. In addition, it includes a detailed user guide supported by screenshots to enhance usability.
+My primary contributions to the Golden Eagle VR Data Visualization Experience focused on 3D model preparation, weight painting, flight animation, and animation integration in Unity. I collaborated with my girlfriend, Ranae Hunter, on the weight painting and animation work, helping prepare the Golden Eagle model and bring its flight behaviors to life.
 
-I also set up GitHub Actions for continuous integration to automate testing and linting processes. This streamlined the development workflow, maintained code quality and ensured a stable and efficient development process.
+### 1. 3D Model Weight Painting
 
-Furthermore, I contributed to the design and implementation of the application, focusing on creating a seamless and visually appealing user experience while prioritizing user safety. My efforts included helping to develop the landing, activities listing and user profile pages while integrating responsive design principles using Next.js and React. In addition, I focused on user safety by ensuring that suspicious individuals would not have easy access to users’ personal information, which was a critical consideration in the application’s design.
+I worked on weight painting the Golden Eagle model in Blender to improve how its mesh deformed when controlled by the rig. This involved refining vertex weights across the beak, tongue, body, head, neck, wings, and feet.
 
-Beyond technical contributions, I played a key role in milestone validation and ensured the project met all specified requirements. By reviewing progress and verifying deliverables, I helped the team to stay aligned with project goals. These efforts underscored the importance of meeting project expectations and delivering a high-quality final product.
+Weight painting was an important step in preparing the model for animation, helping its body parts deform more naturally during different flight movements.
 
-Overall, my contributions to the project demonstrated a balance between technical expertise, user-centered design and a commitment to fulfilling project milestones, ensuring the success of the Weekend Warrior application.
+### 2. Flight Animation Development
+
+I then worked on creating and refining the Golden Eagle's flight animations in Blender. These animations represented several flight behaviors needed for the VR experience:
+
+- **Flapping:** Wing movements representing active flight.
+- **Gliding:** A flight state with the wings extended.
+- **Burst Flapping:** A sequence combining flapping and gliding.
+- **Ascending and Descending:** Animations representing increases and decreases in altitude.
+- **Turning:** Animation for directional changes during flight.
+
+These animations provided the eagle with different flight behaviors that could be integrated into the larger VR experience.
+
+### 3. Unity Model Integration
+
+I successfully ported the updated Golden Eagle model and its animations into Unity. This involved bringing the prepared model into the project and integrating its animation assets into the existing environment.
+
+### 4. Animation Tree and State Transitions
+
+I configured the Unity animation tree and established transitions between the different animation states. This organized the completed animations into a system that could transition between flapping, gliding, burst flapping, altitude changes, and turning.
+
+The animation tree helped connect the individual animations into a unified system for the eagle's flight behaviors.
+
+### 5. Animation Refinement and Visual Polish
+
+During development, I worked on refining the animation tree and addressing visual issues with the model's wing texture in Unity. These adjustments helped improve the consistency and visual presentation of the animated eagle.
+
+Through these contributions, I helped integrate the Golden Eagle's 3D model and flight animations into the larger VR data visualization experience.
+
 
 ## Lessons Learned
 
