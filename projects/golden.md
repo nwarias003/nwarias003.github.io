@@ -4,7 +4,7 @@ type: project
 image: img/weekend/mascot.png
 title: "Golden Eagle VR Data Visualization Experience"
 date: 2026
-published: False
+published: True
 labels:
   - Unity
   - Blender
