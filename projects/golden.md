@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/weekend/mascot.png
+image: img/golden/Screenshot 2026-10-28 104238.png
 title: "Golden Eagle VR Data Visualization Experience"
 date: 2026
 published: True
@@ -136,7 +136,17 @@ The project also used recorded flight data to help represent the eagle's movemen
 
 <!-- TODO: Replace this image with a screenshot of the animation timeline or animation preview. -->
 
-<img src="https://nwarias003.github.io/img/weekend/updated_home_1.png" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+<img src="https://nwarias003.github.io/img/golden/Screenshot 2026-10-28 082358.png" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+
+<img src="https://nwarias003.github.io/img/golden/Screenshot 2026-10-28 082358.png" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+
+<img src="https://nwarias003.github.io/img/golden/Screenshot 2026-10-28 082358.png" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+
+<img src="https://nwarias003.github.io/img/golden/Screenshot 2026-10-28 082358.png" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+
+<img src="https://nwarias003.github.io/img/golden/Screenshot 2026-10-28 082358.png" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+
+<img src="https://nwarias003.github.io/img/golden/Screenshot 2026-10-28 082358.png" style="width: 768px; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
 
 
 *Animation tree and flight animation development in Unity.*
