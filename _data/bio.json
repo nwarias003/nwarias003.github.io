@@ -20,6 +20,13 @@
     { "name": "Audio Design" },
     { "name": "3D Graphics" }
   ],
+  "certification": [
+    { "name": "Video Game Development" },
+    { "name": "Video Game Programming" },
+    { "name": "Esports" },
+    { "name": "Audio Design" },
+    { "name": "3D Graphics" }
+  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
