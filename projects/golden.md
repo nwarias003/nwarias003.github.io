@@ -9,9 +9,11 @@ labels:
   - Unity
   - Blender
   - C#
+  - 3D Animation
+  - VR Development
   - GitHub
   - Cesium
-summary: "A virtual reality project I worked on for my ICS 496 Capstone Project."
+summary: "A virtual reality data visualization project I worked on for my ICS 496 Capstone Project that brings GPS-tracked Golden Eagle flight data to life."
 ---
 
 <!-- <link rel="stylesheet" href="style.css"> -->
@@ -25,13 +27,14 @@ summary: "A virtual reality project I worked on for my ICS 496 Capstone Project.
 - [Overview](#overview)
 - [Project Goals](#project-goals)
 - [Technologies Used](#technologies-used)
-- [Group Contract](#group-contract)
-- [GitHub Organization ](#github-organization)
 - [Documentation](#documentation)
 - [Web Application](#web-application)
 - [Project Contributions](#project-contributions)
+- [3D Model and Weight Painting](#3d-model-and-weight-painting)
+- [Flight Animation and Animation Tree](#flight-animation-and-animation-tree)
 - [Lessons Learned](#lessons-learned)
-- [User Guide](#user-guide)
+- [Project Gallery](#project-gallery)
+- [Project Resources](#project-resources)
 
 
 ## Overview
@@ -39,24 +42,23 @@ A virtual reality (VR) experience representing the flight of migrating juvenile 
 
 ## Project Goals
 
-- Users can create or find activities to join.
-- Admins ensure content safety and platform use.
+- Visualize real-world Golden Eagle migration data in an immersive 3D environment.
+- Represent recorded flight paths using geographic data.
+- Develop a 3D Golden Eagle model capable of realistic flight animation.
+- Connect the eagle's animations to its recorded flight behavior.
+- Provide researchers with an alternative way to explore and understand eagle migration data.
 
 ## Technologies Used
-- Frontend: Typescript, Bootstrap, React, Next.js
-- Backend: Node.js, Prisma ORM
-- Database: PostgreSQL
-- Deployment: Vercel
-- Version Control: GitHub
+- Unity: VR environment, animation integration and real-time visualization.
+- Blender: 3D model preparation, weight painting and flight animation.
+- C#: Scripting and integration within the Unity project.
+- Cesium: Geographic visualization of real-world coordinates.
+- GitHub: Version control and team collaboration.
+- GPS Tracking Data: Recorded eagle flight data used in the visualization.
 
-## Group Contract
-Click <a href="https://docs.google.com/document/d/11WCz0wKi_EQwpVjwTQwwox7MkSHgHivBXGg_-en4Drg/edit?usp=sharing">here</a> to view our group contract.
-
-## GitHub Organization 
-Click <a href="https://github.com/weekend-warrior-uhm">here</a> to view the Weekend Warrior project repository.
 
 ## Documentation 
-Click <a href="https://weekend-warrior-uhm.github.io/">here</a> to view the Weekend Warrior documentation page.
+Click <a href="[https://weekend-warrior-uhm.github.io/](https://drive.google.com/drive/folders/1DBwkojOSYPcGsmRUpERf2d5wzzO058-t?usp=sharing)">here</a> to view the Golden Eagle documentation/milestones.
 
 ## Web Application 
 Click <a href="https://weekend-warrior-code-sigma.vercel.app">here</a> to view Weekend Warrior deployed on Vercel.
