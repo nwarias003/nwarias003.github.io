@@ -126,7 +126,7 @@ In Unity, I organized the animations through an animation tree to manage transit
 
 The project also used recorded flight data to help represent the eagle's movement. The animation system was part of the broader effort to connect the visual behavior of the eagle with its recorded flight.
 
-### Unity Animation Tree and Flight Animation Showcase
+### Flight Animation and Unity Animation Tree Showcase
 
 <!-- TODO: Replace this image with a screenshot of the animation timeline or animation preview. -->
 
