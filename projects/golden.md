@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/golden/Screenshot 2026-10-28 104238.png
+image: img/golden/kat-edited.png
 title: "Golden Eagle VR Data Visualization Experience"
 date: 2026
 published: True
