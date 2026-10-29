@@ -4,7 +4,7 @@ type: project
 image: img/vacay/boss-from-hell-square.png
 title: "Void of The Damned"
 date: 2025
-published: false
+published: true
 labels:
   - Game Level Design
   - Game Development
@@ -13,7 +13,7 @@ labels:
 summary: "A Low Poly Horror video game I developed for my final ICS 485 Video Game Design and Development Project."
 ---
 
-<iframe src="https://drive.google.com/file/d/1yD9geIb-hvNmufvVdnWp58K254UZKpmW/preview" width="100%" height="auto" allow="autoplay; fullscreen" style="max-width: 1280px; aspect-ratio: 16/9; display: block; margin: 0 auto; border: none;"></iframe>
+<iframe src="https://drive.google.com/file/d/18ylaXjopoKxWLmSU0FzAf9aIQXoltnX3/preview" width="100%" height="auto" allow="autoplay; fullscreen" style="max-width: 1280px; aspect-ratio: 16/9; display: block; margin: 0 auto; border: none;"></iframe>
 
 <br>
 
