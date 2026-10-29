@@ -2,9 +2,9 @@
 layout: project
 type: project
 image: img/vacay/boss-from-hell-square.png
-title: "Video Game Senior Project"
-date: 2023
-published: false
+title: "Top Down Block Survival Shooter"
+date: 2025
+published: true
 labels:
   - Game Level Design
   - Game Development
