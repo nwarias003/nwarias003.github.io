@@ -10,7 +10,7 @@ labels:
   - Game Development
   - Unity
   - Animation
-summary: "A Low Poly Horror video game I developed for my final Video Game Design and Development Class."
+summary: "A Low Poly Horror video game I developed for my final ICS 485 Video Game Design and Development Project."
 ---
 
 <iframe src="https://drive.google.com/file/d/1yD9geIb-hvNmufvVdnWp58K254UZKpmW/preview" width="100%" height="auto" allow="autoplay; fullscreen" style="max-width: 1280px; aspect-ratio: 16/9; display: block; margin: 0 auto; border: none;"></iframe>
