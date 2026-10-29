@@ -13,7 +13,9 @@ labels:
 summary: "A 2D Top-Down Horror video game I developed for my Senior Capstone."
 ---
 
-<img class="img-fluid" src="../img/vacay/boss-from-hell-game.png">
+<iframe src="https://drive.google.com/file/d/1yD9geIb-hvNmufvVdnWp58K254UZKpmW/preview" width="100%" height="auto" allow="autoplay; fullscreen" style="max-width: 1280px; aspect-ratio: 16/9; display: block; margin: 0 auto; border: none;"></iframe>
+
+<br>
 
 The Boss From Hell was a Unity 2D top-down horror video game project that I developed as my Senior Capstone at the University of Hawaii at West Oahu within three months with the assistance of my girlfriend, Ranae Hunter, the animator and character designer. The game was based upon my research into the work environment of the video game industry. The object of the game is for the main character, who’s a video game developer, to collect evidence against his boss who has committed wrongdoings against your colleagues at the game company, while simultaneously trying to avoid being caught by him.
 
