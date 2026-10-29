@@ -4,7 +4,7 @@ type: project
 image: img/vacay/boss-from-hell-square.png
 title: "Top Down Block Survival Shooter"
 date: 2025
-published: true
+published: false
 labels:
   - Game Level Design
   - Game Development
